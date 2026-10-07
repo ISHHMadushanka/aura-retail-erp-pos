@@ -1,0 +1,6 @@
+{
+  "name": "AuraRetail ERP & Supermarket POS",
+  "description": "Enterprise-grade multi-branch retail ERP, warehouse inventory management, and high-speed Point of Sale system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
